@@ -1,0 +1,22 @@
+.badge-container {
+    text-align: end;
+    padding: 14px;
+}
+
+.badge-error {
+    border-radius: 1rem;
+    padding: 2px 12px;
+    border-width: 2px;
+    border-color: #ff637d;
+    background-color: #ff637d;
+    color: #4d0218;
+}
+
+.badge-success {
+    border-radius: 1rem;
+    padding: 2px 12px;
+    border-width: 2px;
+    border-color: #00d390;
+    background-color: #00d390;
+    color: #004c39;
+}
